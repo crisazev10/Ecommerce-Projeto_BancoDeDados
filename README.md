@@ -1,4 +1,4 @@
-# Ecommerce-Projeto_BancoDeDados
+# Ecommerce_Projeto_BancoDeDados
 
 ## Esquema do Modelo Entidade-Relacionamento para E-commerce
 
